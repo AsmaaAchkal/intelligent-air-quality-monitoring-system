@@ -154,11 +154,11 @@ AIR_QUALITY_MONITORING/
 
 ### Real-Time Monitoring
 
-![Real-Time Monitoring](screenshots/real-time-monitoring.jpg)
+![Real-Time Monitoring](screenshots/realtime-monitoring.jpg)
 
 ### Historical Analysis
 
-![Historical Analysis](screenshots/historical-analysis.jpg)
+![Historical Analysis](screenshots/historical-data.jpg)
 
 ### Statistics Dashboard
 
