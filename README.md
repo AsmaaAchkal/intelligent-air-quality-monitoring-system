@@ -130,7 +130,6 @@ AIR_QUALITY_MONITORING/
 
 ├── air_quality_backend/
 │   ├── app.py
-│   ├── air_quality_history.csv
 │   ├── random_forest_air_quality_model.joblib
 │   ├── scaler.joblib
 │   └── requirements.txt
@@ -140,9 +139,6 @@ AIR_QUALITY_MONITORING/
 │
 ├── Model/
 │   ├── air_quality_model.ipynb
-│   ├── final_air_quality_dataset_6000.csv
-│   ├── random_forest_air_quality_model.joblib
-│   └── scaler.joblib
 │
 ├── screenshots/
 │   ├── real-time-monitoring.png
